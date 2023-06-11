@@ -1,0 +1,9 @@
+https://pokeapi.co/api/v2/pokemon/bulbasaur
+
+https://pokeapi.co/api/v2/pokemon/ivysaur
+
+https://pokeapi.co/api/v2/pokemon/charizard
+
+https://pokeapi.co/api/v2/pokemon/squirtle
+
+https://pokeapi.co/api/v2/pokemon/weedle
